@@ -84,7 +84,7 @@ Dashboard for journalists to manage their news posts (edit, delete, track status
 
 ### 🛡️ Admin Dashboard
 Admin panel to review pending news articles and manage platform content.
-![Admin Dashboard]([screenshots/admin-dashboard.png](https://github.com/osamabanihani/NewsPLAT/blob/main/Screenshot%202026-01-22%20133244.png))
+![Admin Dashboard](https://github.com/osamabanihani/NewsPLAT/blob/main/Screenshot%202026-01-22%20133244.png)
 
 ---
 
