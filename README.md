@@ -45,6 +45,7 @@ A full-stack news platform that enables users to browse, save, and interact with
 
 ## 📁 Project Structure
 
+```text
 NewsPLAT/
 │
 ├── frontend/                       # React frontend application
@@ -67,11 +68,35 @@ NewsPLAT/
 │
 ├── README.md
 └── .gitignore
-
-
-
+```
+## 📸 Screenshots
+### 📝 Create News (Journalist)
+Interface for journalists to create news articles with title, content, image upload, and submission for review.
+![Create News](https://github.com/osamabanihani/NewsPLAT/blob/main/Screenshot%202026-01-22%20132855.png)
 
 ---
+
+### 🗂️ Journalist Dashboard
+Dashboard for journalists to manage their news posts (edit, delete, track status).
+![Journalist Dashboard](https://github.com/osamabanihani/NewsPLAT/blob/main/Screenshot%202026-01-22%20133219.png )
+
+---
+
+### 🛡️ Admin Dashboard
+Admin panel to review pending news articles and manage platform content.
+![Admin Dashboard]([screenshots/admin-dashboard.png](https://github.com/osamabanihani/NewsPLAT/blob/main/Screenshot%202026-01-22%20133244.png))
+
+---
+
+### 📰 News Article View
+Detailed view of a published news article including image and full content.
+![News Details](https://github.com/osamabanihani/NewsPLAT/blob/main/Screenshot%202026-01-22%20133426.png)
+
+---
+
+### ⭐ Favorites
+Users can save and manage their favorite news articles.
+![Favorites](https://github.com/osamabanihani/NewsPLAT/blob/main/Screenshot%202026-01-22%20133414.png)
 
 ## ⚙️ Installation & Setup
 
